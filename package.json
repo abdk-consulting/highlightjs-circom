@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-circom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Highlight.js syntax definition for the CIRCOM language",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,7 +9,7 @@
     "dist/index.js.map",
     "dist/index.d.ts",
     "dist/index.d.ts.map",
-    "src",
+    "src/index.ts",
     "LICENSE",
     "README.md"
   ],
